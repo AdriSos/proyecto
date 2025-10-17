@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",          // Usa ES6 para async/await
+    "module": "ES6",
+    "strict": true,
+    "outDir": "./",
+    "esModuleInterop": true,
+    "lib": ["ES2015", "DOM"]  // Incluye Promise, find, fetch, etc.
+  },
+  "include": ["app.ts"],
+  "exclude": ["app.js"]
+}

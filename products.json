@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "Nike Air Max",
+    "precio": 2500,
+    "imagen": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/b1707cfb-47a4-4828-8c49-514bf276970d/NIKE+AIR+MAX+90+LTR+%28GS%29.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Adidas Superstar",
+    "precio": 2200,
+    "imagen": "https://ss550.liverpool.com.mx/xl/1170395697.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Nike Jordan",
+    "precio": 3200,
+    "imagen": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8bd27f69-ea5c-4a5e-96b6-4a20a2d045c5/AIR+JORDAN+1+LOW+SE.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Adidas UltraBoost",
+    "precio": 2800,
+    "imagen": "https://via.placeholder.com/150?text=Adidas+UltraBoost"
+  },
+  {
+    "id": 5,
+    "nombre": "Nike Dunk",
+    "precio": 3000,
+    "imagen": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/73bfd1aa-6841-421f-9d4f-e0253cd1da0e/WMNS+NIKE+DUNK+LOW.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Adidas NMD",
+    "precio": 2600,
+    "imagen": "https://via.placeholder.com/150?text=Adidas+NMD"
+  },
+  {
+    "id": 7,
+    "nombre": "Nike Blazer",
+    "precio": 2400,
+    "imagen": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/de9ab74a-c988-448b-b29b-dd1a70ebfb40/W+BLAZER+LOW+PLATFORM.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Adidas Gazelle",
+    "precio": 2100,
+    "imagen": "https://via.placeholder.com/150?text=Adidas+Gazelle"
+  },
+  {
+    "id": 9,
+    "nombre": "Nike React",
+    "precio": 2700,
+    "imagen": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/af75fff1-a45d-4f87-b093-5ef6be1e24b4/NIKE+REACTX+REJUVEN8+SLIDE.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Adidas Continental",
+    "precio": 2300,
+    "imagen": "https://via.placeholder.com/150?text=Adidas+Continental"
+  }
+]

@@ -1,0 +1,107 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #121212; /* Fondo oscuro */
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2aca11;
+  padding: 20px;
+  color: #000000;
+  text-align: center;
+}
+
+button {
+  background-color: #22DB07; /* Verde principal */
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #e600d3;
+}
+
+#main-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+/* === PRODUCTOS === */
+.producto {
+  background-color: #1e1e1e;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  width: 220px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+/* Efecto hover */
+.producto:hover {
+  background-color: #ffffff; /* Se vuelve blanco al pasar el mouse */
+  color: #000000; /* Texto oscuro */
+  transform: translateY(-5px);
+  box-shadow: 0 5px 10px rgba(255, 255, 255, 0.2);
+}
+
+.producto img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+/* === CARRITO Y TICKET === */
+.carrito-item, .ticket {
+  background-color: #1e1e1e;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  width: 220px;
+}
+
+/* === MODAL === */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal.hidden {
+  display: none;
+}
+
+.modal-content {
+  background: #1e1e1e;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+/* === TICKET === */
+.ticket {
+  background-color: #2e2e2e;
+  color: #22DB07;
+  width: 300px;
+  margin: 20px auto;
+  text-align: left;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.4);
+}
